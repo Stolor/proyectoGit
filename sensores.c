@@ -1,0 +1,1 @@
+// archivo futuro de sensores
